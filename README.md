@@ -19,13 +19,13 @@ To run this project on your local machine, follow the steps below:
    ```sh
    git clone https://github.com/thundergokhan/Responsive-Animated-Login-Form.git
    
-1. 1-Navigate to the project directory:
+2-Navigate to the project directory:
 
  ```sh
   cd Responsive-Animated-Login-Form
 
   ```
-1. 2-Open the index.html file in a web browser:
+3-Open the index.html file in a web browser:
 
 ```sh
 open index.html
@@ -48,16 +48,17 @@ This is an example of a responsive and animated login form that users can use to
 - Easy integration.
 
 
-Customization
+## Customization
 You can customize the design and behavior of the login form by editing the following files:
 
 index.html: You can modify the HTML structure.
 styles.css: Customize the design using CSS.
 script.js: Customize the behavior using JavaScript.
-Contributing
+
+## Contributing
 If you would like to contribute to this project, please submit a pull request to the GitHub repository. We welcome your contributions!
 
-License
+## License
 This project is licensed under the MIT License. Please refer to the license file for more information.
 
 If you find this project useful, don't forget to star it!
